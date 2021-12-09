@@ -1,0 +1,50 @@
+﻿Category,Language,weeks,hours,Title,Description,,,,,,,Features
+Category I,Danish,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Dutch,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,French,30,750,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Italian,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Norwegian,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Portuguese,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Romanian,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Spanish,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category I,Swedish,24,600,World languages,Languages closely cognate with English,,,,,,,Polysynthetic
+Category II,German,36,900,World languages,Languages that take a little longer than Category I languages,,,,,,,Polysynthetic
+Category II,Indonesian,36,900,Hard languages,Languages that take a little longer than Category I languages,,,,,,,Polysynthetic
+Category II,Swahili,36,900,Hard languages,Languages that take a little longer than Category I languages,,,,,,,Polysynthetic
+Category III,Bengali,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Bulgarian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Burmese,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Czech,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Dari,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Estonian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Finnish,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Georgian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Gujarati,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Hausa,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Hindi,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Hungarian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Icelandic,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Kazakh,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Lao,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Latvian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Lithuanian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Macedonian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Nepali,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Polish,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Russian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Sinhala,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Slovak,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Slovenian,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Somali,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Tagalog,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Tamil,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Telugu,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Thai,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Tibetan,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Turkish,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Turkmen,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Urdu,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category III,Vietnamese,44,1100,Hard languages,Languages with significant linguistic and/or cultural differences from English,,,,,,,Polysynthetic
+Category IV,Japanese,52,2200,Super-hard languages,Languages which are exceptionally difficult for native English speakers,,,,,,,Polysynthetic
+Category IV,Korean,63,2200,Super-hard languages,Languages which are exceptionally difficult for native English speakers,,,,,,,Polysynthetic
+Category IV,Kabardian,66,2200,Super-hard languages,Languages which are exceptionally difficult for native English speakers,,,,,,,Fusional
